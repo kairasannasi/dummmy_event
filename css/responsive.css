@@ -1,0 +1,238 @@
+@media screen and (max-width: 768px) {
+.clrboth{
+    clear: both;
+}
+    .frmcnt{
+        
+    }
+    .global-banner img{
+        height: auto;
+    }
+    .aftr::after{
+        content: none;
+    }
+    .glbfrmspec{
+       
+        padding: 0;
+    }
+    .locmap {
+    margin-top: 20px;
+}
+    .spec h3{
+        margin-top: 43px;
+        font-size: 30px;
+    }
+    .glbfeatures {
+    padding: 40px 20px;
+}
+    .aftr1::after{
+        content: none;
+    }
+    .gshscnt {
+    padding-top: 0px;
+}
+
+    .glbclbhse {
+    padding: 0px 0;
+}
+    .glbfrmopt {
+    padding: 20px 0;
+    background: #ffe7ca;
+}
+.metric {
+    background: #078932;
+}
+
+.bed {
+    background: #890750;
+}
+.glbfrmspec {
+    background: #890723;
+}.cbse {
+    background: #075A89;
+}
+    .glbabtus{
+        padding: 40px 0;
+    }
+    .glbabtus p{
+        text-align: justify;
+        line-height: 30px;
+    }
+    .glbfooter{
+        background: #08545f;
+        padding-top: 40px;
+    padding-bottom: 20px;
+    }
+    .hdrcall li {
+list-style-type: none;
+    /* float: left; */
+    padding: 0px 0 5px 0;
+    display: block;
+    text-align: center;
+    float: none;
+}
+    .hdrcall li a {
+        font-size: 13px;
+    }
+    .skcvmenu {
+    background-color: transparent;
+	position:absolute;
+	z-index:99;
+}
+    .navbar-inverse {
+    background-color:transparent;
+    border-color: transparent;
+}
+    #side-menu{
+        background: #398ece;
+    }
+    .nav > li > a{
+        color: #fff;
+    }
+    .nav > li > a:hover{
+        background-color: #eee;
+    color: #000;
+
+    }
+    .navbar-nav .open .dropdown-menu > li > a{
+        color: #fff;
+        font-size: 12px;
+    }
+    #side-menu .close{
+        color: #fff;
+        opacity: 1;
+    }
+    .nav > li > a {
+    padding: 16px 25px;
+    border-bottom: 1px solid #84b635;
+}
+    #side-menu {
+    background: #5b9500;
+}
+    #side-menu {
+    display: none;
+    position: fixed;
+    width: 310px;
+    top: 0;
+    right: -300px;
+    height: 100%;
+    overflow-y: auto;
+    z-index: 1035;
+    padding: 20px 10px;
+    color: #333;
+    transition: 0.4s;
+}
+    ul.dropdown-menu li{
+        border-bottom: 1px solid #68a8d8;
+    }
+.navbar-toggle {
+    border: none;
+    background: #63b246 !important;
+    border-radius: 0;
+    margin-right: -3px;
+    margin-top: 21px;
+}
+    .navbar-nav > li {
+    display: block;
+    width: 100%;
+}
+    .logo {
+        padding-top: 22px;
+    }
+    .callfx{
+        width: 100%;
+        position: fixed;
+        bottom: -1px;
+        background: #f16028;
+        
+    }
+    .callfx li a{
+        display: block;
+        text-align: center;
+        color: #fff;
+        padding: 10px 0;
+        font-size: 16px;
+        text-transform: uppercase;
+    }
+    .glbcpyright {
+    background: #256f0b;
+    margin-bottom: 41px;
+}
+    .st_btn {
+        margin-bottom: 30px;
+    }
+    .hdrlogo{
+            position: fixed;
+    z-index: 99;
+    top: 0;
+    background: #fff;
+    }
+    .navbar-toggle {
+    position: fixed;
+    z-index: 999999;
+    right: 20px;
+    }
+    .nav > li:last-child > a{
+        border-bottom: 0;
+        padding-bottom: 0;
+        font-weight: bold;
+        font-size: 25px;
+        color: #fff;
+    }
+    li.pdlf{
+       padding-left: 20px!important;
+    padding: 30px!important;
+    font-size: 30px!important;
+    font-weight: bold!important;
+    color: #ffeb3b!important;
+        padding-bottom: 0!important;
+    }
+    a.expand h2 {
+    font-size: 14px;
+    line-height: 25px;
+    }
+    .global-banner {
+    padding: 0;
+    margin-top: 111px;
+}
+    .spec a{
+        margin-bottom: 30px;
+    }
+    .slick-dots {
+    position: absolute;
+    bottom: 12px;
+        
+    }
+    .slick-dots li button {
+    font-size: 0;
+    line-height: 0;
+    display: block;
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+    cursor: pointer;
+    color: transparent;
+    border: 0;
+    outline: none;
+    background: #ffaf00;
+    border-radius: 100px;
+}
+     .slick-slide img {
+      width: auto;
+        height:auto!important;
+    }
+    .close span{
+        opacity: 0;
+    }
+    .glbfrmgshse{
+        background: #0d5762!important;
+        padding: 40px 0 45px 0;
+        margin-bottom: 30px;
+    }
+    .glbfrmlnd h5 {
+        font-size: 16px;}
+        .glbabtus li::before {
+            left: 1rem;
+        }
+
+}
